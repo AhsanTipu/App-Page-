@@ -1,0 +1,96 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.imga{
+    width: 52px;
+}
+.navbar-nav{
+    margin:auto;
+}
+.nav-link{
+    font-family: 'Kufam', cursive;
+    color: white !important;
+}
+.navbar-nav :hover{
+    background-color:rgb(37, 47, 51);
+    border-radius: 40px;
+}
+.navbar-light .navbar-toggler{
+    border-color: black !important;
+}
+@media only screen and (max-width: 768px) {
+    .wwaz{
+        width: 260px !important;
+    height: 173px !important;
+    
+    }
+    .navbar-nav :hover{
+             border-radius: 8px;
+    width: 116px;
+    }
+    .wwa{
+margin-top: 21px;
+    }
+    .nav-link{
+        margin-left: 15px;
+    }
+    .saz{
+        margin-top: 32px;
+    }
+    
+  }
+  .bor{
+      border-bottom: 3px solid #5bc0de;
+      padding-bottom: 5px;
+      width: 153px;
+  }
+  @media only screen and (max-width: 1024px) {
+.tes{
+    height: 420px;
+}
+
+  }
+  .has{
+    font-family: 'Lora', serif; 
+  }
+  .zs{
+    border-bottom: 3px solid #5bc0de;
+    padding-bottom: 2px;
+    width: 60px;
+    margin: auto;
+  }
+  .ww{
+      width: 260px;
+      height: 40px;
+      border-color: #5bc0de;
+      border-radius: 5px;
+    }
+  .wwa{
+    width: 260px;
+    height: 40px;
+    border-color: #5bc0de;
+    border-radius: 5px;
+}
+.wwaz{
+width: 500px;
+height: 220px;
+border-color: #5bc0de;
+border-radius: 5px;
+margin-top: 21px;
+}
+.btz{
+    margin-top: 21px;
+}
+.footer{
+    background-color: #5bc0de;
+    
+    margin-top: 20px;
+height: 50px;
+}
+.zz{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
